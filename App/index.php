@@ -7,3 +7,4 @@
 
     $usuario = new User();
     $usuario->index();
+    echo "Mudança!";
